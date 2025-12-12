@@ -1,0 +1,7 @@
+input_text,predicted_sentiment,confidence
+I absolutely love this new phone! The camera is amazing.,Positive,0.9900687336921692
+The food was cold and the service was terrible.,Negative,0.9057793021202087
+I am going to work by bus today.,Neutral,0.7785292863845825
+Can't wait for the weekend! So excited.,Positive,0.9871556758880615
+This is the worst experience I've ever had.,Negative,0.9328715801239014
+"The weather is okay, not too bad.",Positive,0.7128885984420776
